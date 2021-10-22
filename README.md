@@ -3,7 +3,7 @@ Phishing Website Detection Model Using Machine Learning Algorithms With The Help
 
 
 
-The main aim of the **Phishing Website Detection Model using Machine Learning Algorithm **is
+The main aim of the Phishing Website Detection Model using Machine Learning Algorithm is
 to detect phishing websites. In last few years, the web and online services have changed the modern
 world.
 But due to our increasing dependency on online services, there is a threat for online security.
